@@ -22,8 +22,8 @@ title: Web de Mishelle Lopez
 email: mishellelopez1204@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Examen de introduccino a los sistemas de computo.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mishelleLopez1204.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/examen-sistema-de-computo"
+url: "https://mishellelopez1204.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
